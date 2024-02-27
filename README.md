@@ -4,7 +4,7 @@ I'm a Laravel developer with over 10 years of industry experience. I write a lot
 
 ## Highlights
 
-* [On Medium](https://medium.com/@SlyFireFox)
+* [My Articles](https://articles.peterfox.me)
 * [On Twitter](https://twitter.com/@SlyFireFox)
 
 ### Open Source
