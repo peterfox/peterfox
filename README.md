@@ -4,6 +4,7 @@ I'm a Laravel developer with over 10 years of industry experience. I write a lot
 
 ## Where to Find Me
 
+* [Website](https://www.peterfox.me)
 * [My Articles](https://articles.peterfox.me)
 * [On 𝕏](https://x.com/@SlyFireFox)
 
