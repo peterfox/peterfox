@@ -8,7 +8,11 @@ I'm a Laravel developer with over 10 years of industry experience. I write a lot
 * [My Articles](https://articles.peterfox.me)
 * [On 𝕏](https://x.com/@peterfox)
 
-### Open Source
+## Projects
+
+* [Laravel Badge](https://badge.laravel.cloud)
+
+## Open Source
 * [Laravel Rector](https://github.com/driftingly/rector-laravel)
 * [Feature Flags for Laravel](https://github.com/ylsideas/feature-flags)
 * [Google Cloud Tasks for Laravel](https://github.com/tradecoverexchange/google-cloud-tasks-laravel)
