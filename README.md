@@ -1,6 +1,8 @@
+[![Laravel Contributor](https://laravel-badge.peterfox.me/contributor/peterfox)](https://laravel-badge.peterfox.me/contributor/peterfox/contributions)
+
 ## Welcome
 
-I'm a Laravel developer with over 10 years of industry experience. I write a lot of articles for the Laravel community and have producted a couple of successful Laravel Packages.
+I'm a Laravel/PHP developer with over 15 years of industry experience.
 
 ## Where to Find Me
 
